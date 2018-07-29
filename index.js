@@ -14,5 +14,15 @@ function divide(a, b){
   return a / b;
 }
 
-//inc(n) increments n and returns the result:
+function inc(n){
+  return n+=1;
+}
 
+function dec(n){
+  return n-=1;
+}
+
+function makeInt(n){
+  parseInt(n, 10);
+  return n;
+}
