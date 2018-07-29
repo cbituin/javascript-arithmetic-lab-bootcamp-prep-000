@@ -15,3 +15,4 @@ function divide(a, b){
 }
 
 //inc(n) increments n and returns the result:
+
